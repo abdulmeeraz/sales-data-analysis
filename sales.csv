@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Name,Region,Product,Category,Quantity,Unit_Price,Total_Sales,Payment_Mode
+1001,2024-04-15,Aman Khan,East,Headphones,Electronics,2,2500,5000,Net Banking
+1002,2024-04-23,Suresh Kumar,East,Desk,Furniture,6,12000,72000,Cash
+1003,2024-04-13,Kavya Iyer,South,Laptop,Electronics,5,55000,275000,Net Banking
+1004,2024-06-19,Anjali Verma,East,Headphones,Electronics,5,2500,12500,Cash
+1005,2024-01-01,Pooja Das,West,Desk,Furniture,3,12000,36000,UPI
+1006,2024-06-02,Kiran Patel,East,Headphones,Electronics,5,2500,12500,Debit Card
+1007,2024-05-08,Meena Joshi,North,Desk,Furniture,5,12000,60000,Credit Card
+1008,2024-04-24,Kavya Iyer,East,Headphones,Electronics,1,2500,2500,UPI
+1009,2024-01-22,Priya Singh,North,Laptop,Electronics,5,55000,275000,Debit Card
+1010,2024-04-27,Aman Khan,North,Desk,Furniture,3,12000,36000,Net Banking
+1011,2024-05-22,Rahul Sharma,West,Desk,Furniture,6,12000,72000,Credit Card
+1012,2024-03-20,Kiran Patel,South,Keyboard,Accessories,2,1500,3000,Net Banking
+1013,2024-01-12,Aditya Malhotra,North,Smartphone,Electronics,5,18000,90000,UPI
+1014,2024-05-05,Neha Reddy,North,Office Chair,Furniture,6,4500,27000,Cash
+1015,2024-04-04,Rohit Mehta,East,Tablet,Electronics,2,22000,44000,UPI
+1016,2024-05-02,Kiran Patel,South,Monitor,Electronics,6,14000,84000,UPI
+1017,2024-06-20,Priya Singh,South,Headphones,Electronics,2,2500,5000,Debit Card
+1018,2024-06-09,Anjali Verma,West,Keyboard,Accessories,3,1500,4500,Debit Card
+1019,2024-02-26,Kavya Iyer,North,Smartphone,Electronics,2,18000,36000,Net Banking
+1020,2024-05-24,Vikas Rao,West,Monitor,Electronics,3,14000,42000,Net Banking
+1021,2024-05-05,Suresh Kumar,South,Tablet,Electronics,3,22000,66000,Cash
+1022,2024-02-04,Pooja Das,South,Mouse,Accessories,5,800,4000,Credit Card
+1023,2024-06-21,Meena Joshi,North,Mouse,Accessories,1,800,800,Debit Card
+1024,2024-05-01,Kiran Patel,North,Keyboard,Accessories,5,1500,7500,UPI
+1025,2024-03-17,Meena Joshi,South,Desk,Furniture,3,12000,36000,Credit Card
+1026,2024-03-03,Arjun Patel,West,Desk,Furniture,3,12000,36000,Credit Card
+1027,2024-05-30,Meena Joshi,North,Keyboard,Accessories,3,1500,4500,Net Banking
+1028,2024-01-06,Arjun Patel,North,Laptop,Electronics,1,55000,55000,UPI
+1029,2024-01-06,Rahul Sharma,South,Headphones,Electronics,2,2500,5000,Net Banking
+1030,2024-06-22,Rohit Mehta,North,Monitor,Electronics,1,14000,14000,UPI
+1031,2024-04-24,Vikas Rao,South,Tablet,Electronics,4,22000,88000,Debit Card
+1032,2024-05-04,Suresh Kumar,North,Headphones,Electronics,6,2500,15000,Net Banking
+1033,2024-02-11,Aditya Malhotra,East,Tablet,Electronics,6,22000,132000,Net Banking
+1034,2024-01-26,Kavya Iyer,East,Smartphone,Electronics,2,18000,36000,Net Banking
+1035,2024-05-28,Rahul Sharma,West,Office Chair,Furniture,5,4500,22500,Debit Card
+1036,2024-06-11,Kiran Patel,West,Tablet,Electronics,6,22000,132000,Credit Card
+1037,2024-02-24,Meena Joshi,East,Monitor,Electronics,6,14000,84000,Net Banking
+1038,2024-05-21,Kiran Patel,North,Desk,Furniture,4,12000,48000,Debit Card
+1039,2024-04-16,Anjali Verma,South,Office Chair,Furniture,6,4500,27000,Credit Card
+1040,2024-02-18,Sneha Gupta,East,Office Chair,Furniture,4,4500,18000,UPI
+1041,2024-05-16,Anjali Verma,South,Mouse,Accessories,6,800,4800,Credit Card
+1042,2024-03-25,Suresh Kumar,North,Office Chair,Furniture,3,4500,13500,UPI
+1043,2024-01-27,Aman Khan,East,Smartphone,Electronics,2,18000,36000,Net Banking
+1044,2024-05-28,Suresh Kumar,West,Smartphone,Electronics,6,18000,108000,UPI
+1045,2024-04-30,Anjali Verma,West,Monitor,Electronics,6,14000,84000,Cash
+1046,2024-06-05,Rahul Sharma,South,Tablet,Electronics,5,22000,110000,UPI
+1047,2024-05-24,Anjali Verma,East,Smartphone,Electronics,2,18000,36000,Cash
+1048,2024-06-28,Meena Joshi,North,Office Chair,Furniture,5,4500,22500,UPI
+1049,2024-05-10,Priya Singh,West,Keyboard,Accessories,6,1500,9000,UPI
+1050,2024-02-10,Aditya Malhotra,North,Laptop,Electronics,3,55000,165000,Credit Card
+1051,2024-02-09,Kavya Iyer,South,Smartphone,Electronics,2,18000,36000,Net Banking
+1052,2024-06-21,Neha Reddy,North,Keyboard,Accessories,5,1500,7500,Cash
+1053,2024-05-29,Sneha Gupta,West,Bookshelf,Furniture,6,7000,42000,Debit Card
+1054,2024-05-05,Anjali Verma,East,Laptop,Electronics,3,55000,165000,Debit Card
+1055,2024-01-12,Anjali Verma,West,Office Chair,Furniture,1,4500,4500,Net Banking
+1056,2024-01-21,Neha Reddy,South,Headphones,Electronics,4,2500,10000,UPI
+1057,2024-01-15,Aman Khan,North,Tablet,Electronics,3,22000,66000,Credit Card
+1058,2024-03-09,Vikas Rao,North,Desk,Furniture,6,12000,72000,Debit Card
+1059,2024-06-19,Aditya Malhotra,East,Tablet,Electronics,2,22000,44000,UPI
+1060,2024-06-23,Anjali Verma,North,Tablet,Electronics,2,22000,44000,Credit Card
+1061,2024-02-11,Priya Singh,North,Mouse,Accessories,4,800,3200,Debit Card
+1062,2024-04-16,Aman Khan,North,Office Chair,Furniture,1,4500,4500,Debit Card
+1063,2024-06-05,Sneha Gupta,East,Smartphone,Electronics,1,18000,18000,Net Banking
+1064,2024-03-04,Rahul Sharma,North,Keyboard,Accessories,5,1500,7500,Net Banking
+1065,2024-03-17,Vikas Rao,West,Laptop,Electronics,1,55000,55000,Debit Card
+1066,2024-03-27,Aman Khan,South,Mouse,Accessories,3,800,2400,Net Banking
+1067,2024-03-13,Neha Reddy,North,Tablet,Electronics,4,22000,88000,Debit Card
+1068,2024-04-18,Rahul Sharma,South,Mouse,Accessories,1,800,800,Net Banking
+1069,2024-04-01,Suresh Kumar,East,Mouse,Accessories,2,800,1600,Credit Card
+1070,2024-02-04,Suresh Kumar,West,Bookshelf,Furniture,3,7000,21000,Cash
+1071,2024-01-30,Aditya Malhotra,North,Smartphone,Electronics,6,18000,108000,UPI
+1072,2024-02-28,Arjun Patel,East,Smartphone,Electronics,1,18000,18000,Credit Card
+1073,2024-01-27,Kavya Iyer,West,Laptop,Electronics,4,55000,220000,Net Banking
+1074,2024-02-21,Sneha Gupta,South,Tablet,Electronics,6,22000,132000,UPI
+1075,2024-06-21,Meena Joshi,West,Office Chair,Furniture,5,4500,22500,UPI
+1076,2024-05-10,Aditya Malhotra,South,Monitor,Electronics,6,14000,84000,Debit Card
+1077,2024-05-27,Suresh Kumar,North,Keyboard,Accessories,5,1500,7500,Net Banking
+1078,2024-03-10,Anjali Verma,North,Tablet,Electronics,6,22000,132000,Cash
+1079,2024-04-17,Priya Singh,East,Smartphone,Electronics,3,18000,54000,Credit Card
+1080,2024-05-15,Sneha Gupta,West,Laptop,Electronics,1,55000,55000,Net Banking
+1081,2024-03-02,Meena Joshi,East,Monitor,Electronics,6,14000,84000,Cash
+1082,2024-05-26,Aditya Malhotra,North,Bookshelf,Furniture,2,7000,14000,Debit Card
+1083,2024-06-08,Rohit Mehta,South,Headphones,Electronics,5,2500,12500,Credit Card
+1084,2024-01-06,Kavya Iyer,West,Smartphone,Electronics,4,18000,72000,UPI
+1085,2024-06-22,Anjali Verma,North,Monitor,Electronics,2,14000,28000,Cash
+1086,2024-05-31,Kavya Iyer,West,Desk,Furniture,2,12000,24000,UPI
+1087,2024-02-25,Rahul Sharma,South,Tablet,Electronics,5,22000,110000,Debit Card
+1088,2024-06-05,Kiran Patel,East,Mouse,Accessories,4,800,3200,Net Banking
+1089,2024-02-08,Arjun Patel,East,Keyboard,Accessories,4,1500,6000,UPI
+1090,2024-06-08,Kiran Patel,East,Desk,Furniture,6,12000,72000,Credit Card
+1091,2024-04-09,Kiran Patel,West,Bookshelf,Furniture,3,7000,21000,Credit Card
+1092,2024-05-24,Vikas Rao,North,Monitor,Electronics,2,14000,28000,UPI
+1093,2024-01-11,Aman Khan,North,Keyboard,Accessories,6,1500,9000,Credit Card
+1094,2024-01-22,Vikas Rao,West,Desk,Furniture,6,12000,72000,Net Banking
+1095,2024-02-21,Priya Singh,East,Desk,Furniture,1,12000,12000,Net Banking
+1096,2024-03-22,Aman Khan,West,Desk,Furniture,5,12000,60000,Credit Card
+1097,2024-05-25,Rahul Sharma,South,Mouse,Accessories,5,800,4000,Cash
+1098,2024-05-14,Rahul Sharma,North,Mouse,Accessories,5,800,4000,Cash
+1099,2024-04-10,Kavya Iyer,East,Laptop,Electronics,1,55000,55000,Cash
+1100,2024-02-29,Sneha Gupta,North,Tablet,Electronics,2,22000,44000,Credit Card
+1101,2024-03-23,Pooja Das,West,Office Chair,Furniture,5,4500,22500,UPI
+1102,2024-04-11,Meena Joshi,South,Smartphone,Electronics,5,18000,90000,Cash
+1103,2024-04-22,Aman Khan,South,Office Chair,Furniture,3,4500,13500,Net Banking
+1104,2024-05-05,Anjali Verma,East,Headphones,Electronics,4,2500,10000,Credit Card
+1105,2024-02-05,Aditya Malhotra,North,Mouse,Accessories,3,800,2400,Debit Card
+1106,2024-01-13,Meena Joshi,South,Desk,Furniture,1,12000,12000,Net Banking
+1107,2024-05-30,Rahul Sharma,East,Tablet,Electronics,4,22000,88000,UPI
+1108,2024-03-22,Anjali Verma,West,Desk,Furniture,5,12000,60000,Net Banking
+1109,2024-02-26,Anjali Verma,North,Desk,Furniture,1,12000,12000,UPI
+1110,2024-01-16,Priya Singh,South,Keyboard,Accessories,3,1500,4500,UPI
+1111,2024-05-04,Pooja Das,North,Desk,Furniture,4,12000,48000,Net Banking
+1112,2024-03-23,Meena Joshi,East,Tablet,Electronics,2,22000,44000,Net Banking
+1113,2024-02-20,Rahul Sharma,North,Smartphone,Electronics,6,18000,108000,Net Banking
+1114,2024-05-25,Aditya Malhotra,South,Office Chair,Furniture,1,4500,4500,UPI
+1115,2024-01-18,Priya Singh,West,Mouse,Accessories,4,800,3200,Cash
+1116,2024-04-25,Suresh Kumar,North,Tablet,Electronics,2,22000,44000,Debit Card
+1117,2024-05-14,Aman Khan,South,Keyboard,Accessories,6,1500,9000,Credit Card
+1118,2024-05-17,Kavya Iyer,East,Bookshelf,Furniture,4,7000,28000,Net Banking
+1119,2024-03-05,Kavya Iyer,North,Tablet,Electronics,1,22000,22000,Credit Card
+1120,2024-01-14,Pooja Das,East,Mouse,Accessories,5,800,4000,Debit Card
+1121,2024-06-13,Aditya Malhotra,West,Smartphone,Electronics,1,18000,18000,Net Banking
+1122,2024-04-26,Kiran Patel,North,Laptop,Electronics,3,55000,165000,UPI
+1123,2024-05-24,Anjali Verma,East,Smartphone,Electronics,3,18000,54000,Cash
+1124,2024-03-16,Suresh Kumar,East,Bookshelf,Furniture,3,7000,21000,Debit Card
+1125,2024-03-08,Kiran Patel,North,Bookshelf,Furniture,6,7000,42000,UPI
+1126,2024-05-21,Aman Khan,South,Mouse,Accessories,3,800,2400,Debit Card
+1127,2024-04-27,Aditya Malhotra,West,Laptop,Electronics,5,55000,275000,Net Banking
+1128,2024-04-06,Sneha Gupta,East,Monitor,Electronics,1,14000,14000,UPI
+1129,2024-06-10,Aman Khan,South,Smartphone,Electronics,5,18000,90000,UPI
+1130,2024-02-06,Suresh Kumar,West,Headphones,Electronics,5,2500,12500,UPI
+1131,2024-02-13,Vikas Rao,North,Desk,Furniture,6,12000,72000,Cash
+1132,2024-06-13,Neha Reddy,West,Tablet,Electronics,1,22000,22000,Debit Card
+1133,2024-05-06,Rohit Mehta,West,Laptop,Electronics,2,55000,110000,Debit Card
+1134,2024-03-05,Arjun Patel,West,Monitor,Electronics,3,14000,42000,Debit Card
+1135,2024-03-17,Aditya Malhotra,South,Laptop,Electronics,5,55000,275000,UPI
+1136,2024-03-09,Meena Joshi,West,Monitor,Electronics,4,14000,56000,Debit Card
+1137,2024-02-04,Rohit Mehta,North,Office Chair,Furniture,5,4500,22500,Net Banking
+1138,2024-03-14,Arjun Patel,East,Tablet,Electronics,4,22000,88000,UPI
+1139,2024-03-23,Kiran Patel,South,Mouse,Accessories,4,800,3200,Debit Card
+1140,2024-05-20,Sneha Gupta,South,Monitor,Electronics,1,14000,14000,Net Banking
+1141,2024-06-03,Neha Reddy,North,Tablet,Electronics,6,22000,132000,Debit Card
+1142,2024-01-20,Rahul Sharma,South,Desk,Furniture,4,12000,48000,UPI
+1143,2024-01-03,Priya Singh,West,Bookshelf,Furniture,2,7000,14000,Credit Card
+1144,2024-02-12,Neha Reddy,South,Laptop,Electronics,1,55000,55000,Debit Card
+1145,2024-03-07,Neha Reddy,East,Smartphone,Electronics,6,18000,108000,Net Banking
+1146,2024-02-10,Vikas Rao,South,Desk,Furniture,6,12000,72000,UPI
+1147,2024-01-08,Aditya Malhotra,East,Monitor,Electronics,1,14000,14000,Debit Card
+1148,2024-02-28,Rohit Mehta,West,Mouse,Accessories,3,800,2400,Cash
+1149,2024-04-24,Priya Singh,North,Headphones,Electronics,3,2500,7500,Cash
+1150,2024-06-24,Pooja Das,South,Laptop,Electronics,3,55000,165000,Credit Card
+1151,2024-01-16,Arjun Patel,South,Headphones,Electronics,1,2500,2500,Net Banking
+1152,2024-05-27,Pooja Das,West,Monitor,Electronics,3,14000,42000,Debit Card
+1153,2024-06-14,Suresh Kumar,North,Office Chair,Furniture,2,4500,9000,Debit Card
+1154,2024-05-25,Pooja Das,South,Tablet,Electronics,4,22000,88000,Credit Card
+1155,2024-03-06,Aman Khan,West,Bookshelf,Furniture,1,7000,7000,Net Banking
+1156,2024-03-10,Aman Khan,East,Monitor,Electronics,1,14000,14000,Cash
+1157,2024-01-20,Pooja Das,West,Keyboard,Accessories,1,1500,1500,Net Banking
+1158,2024-06-17,Rohit Mehta,South,Bookshelf,Furniture,5,7000,35000,Net Banking
+1159,2024-05-01,Rahul Sharma,West,Desk,Furniture,1,12000,12000,Debit Card
+1160,2024-01-03,Vikas Rao,West,Smartphone,Electronics,2,18000,36000,Credit Card
+1161,2024-03-10,Vikas Rao,North,Smartphone,Electronics,1,18000,18000,UPI
+1162,2024-01-06,Aditya Malhotra,West,Tablet,Electronics,6,22000,132000,Credit Card
+1163,2024-01-17,Kiran Patel,West,Monitor,Electronics,3,14000,42000,Credit Card
+1164,2024-01-05,Vikas Rao,South,Office Chair,Furniture,1,4500,4500,Debit Card
+1165,2024-06-08,Kavya Iyer,East,Laptop,Electronics,1,55000,55000,Debit Card
+1166,2024-04-26,Pooja Das,East,Laptop,Electronics,4,55000,220000,Credit Card
+1167,2024-02-23,Sneha Gupta,East,Headphones,Electronics,6,2500,15000,Debit Card
+1168,2024-05-23,Meena Joshi,East,Bookshelf,Furniture,1,7000,7000,Credit Card
+1169,2024-01-08,Rohit Mehta,East,Bookshelf,Furniture,2,7000,14000,Cash
+1170,2024-01-15,Suresh Kumar,West,Smartphone,Electronics,6,18000,108000,UPI
+1171,2024-03-06,Aman Khan,South,Smartphone,Electronics,4,18000,72000,Cash
+1172,2024-04-01,Suresh Kumar,West,Keyboard,Accessories,4,1500,6000,Cash
+1173,2024-05-08,Pooja Das,West,Headphones,Electronics,6,2500,15000,Debit Card
+1174,2024-01-17,Kiran Patel,North,Smartphone,Electronics,4,18000,72000,Credit Card
+1175,2024-01-31,Priya Singh,South,Smartphone,Electronics,4,18000,72000,Debit Card
+1176,2024-02-06,Rahul Sharma,West,Monitor,Electronics,1,14000,14000,Net Banking
+1177,2024-06-21,Neha Reddy,West,Laptop,Electronics,4,55000,220000,Net Banking
+1178,2024-03-25,Meena Joshi,East,Laptop,Electronics,5,55000,275000,UPI
+1179,2024-04-06,Kiran Patel,South,Smartphone,Electronics,5,18000,90000,Credit Card
+1180,2024-03-15,Kavya Iyer,East,Keyboard,Accessories,2,1500,3000,Credit Card
+1181,2024-04-23,Sneha Gupta,North,Laptop,Electronics,4,55000,220000,Debit Card
+1182,2024-02-08,Kavya Iyer,South,Smartphone,Electronics,6,18000,108000,Net Banking
+1183,2024-02-25,Aman Khan,North,Desk,Furniture,5,12000,60000,UPI
+1184,2024-01-23,Rahul Sharma,North,Office Chair,Furniture,3,4500,13500,UPI
+1185,2024-03-06,Neha Reddy,East,Desk,Furniture,4,12000,48000,Credit Card
+1186,2024-01-11,Neha Reddy,South,Smartphone,Electronics,1,18000,18000,Debit Card
+1187,2024-01-02,Aman Khan,West,Office Chair,Furniture,2,4500,9000,UPI
+1188,2024-02-08,Priya Singh,South,Smartphone,Electronics,4,18000,72000,Debit Card
+1189,2024-02-11,Aman Khan,North,Desk,Furniture,4,12000,48000,UPI
+1190,2024-02-06,Aman Khan,South,Office Chair,Furniture,4,4500,18000,Debit Card
+1191,2024-04-03,Suresh Kumar,East,Laptop,Electronics,3,55000,165000,UPI
+1192,2024-04-20,Neha Reddy,West,Smartphone,Electronics,1,18000,18000,Debit Card
+1193,2024-06-23,Suresh Kumar,East,Office Chair,Furniture,5,4500,22500,Credit Card
+1194,2024-01-26,Anjali Verma,East,Monitor,Electronics,4,14000,56000,Cash
+1195,2024-02-14,Anjali Verma,North,Smartphone,Electronics,6,18000,108000,Cash
+1196,2024-03-12,Priya Singh,East,Keyboard,Accessories,5,1500,7500,Credit Card
+1197,2024-01-21,Priya Singh,West,Desk,Furniture,1,12000,12000,Cash
+1198,2024-05-15,Anjali Verma,North,Mouse,Accessories,1,800,800,Net Banking
+1199,2024-03-18,Anjali Verma,South,Keyboard,Accessories,3,1500,4500,UPI
+1200,2024-04-27,Aditya Malhotra,East,Keyboard,Accessories,6,1500,9000,Debit Card
+1201,2024-03-02,Priya Singh,West,Smartphone,Electronics,5,18000,90000,Credit Card
+1202,2024-01-27,Rohit Mehta,South,Headphones,Electronics,4,2500,10000,Credit Card
+1203,2024-06-23,Priya Singh,East,Desk,Furniture,2,12000,24000,UPI
+1204,2024-05-29,Priya Singh,West,Monitor,Electronics,5,14000,70000,Debit Card
+1205,2024-02-15,Neha Reddy,South,Laptop,Electronics,3,55000,165000,Credit Card
+1206,2024-05-04,Priya Singh,South,Laptop,Electronics,6,55000,330000,Debit Card
+1207,2024-02-17,Priya Singh,East,Headphones,Electronics,2,2500,5000,Debit Card
+1208,2024-03-20,Neha Reddy,South,Laptop,Electronics,5,55000,275000,Debit Card
+1209,2024-01-10,Pooja Das,South,Desk,Furniture,5,12000,60000,Debit Card
+1210,2024-03-05,Kiran Patel,South,Keyboard,Accessories,4,1500,6000,Debit Card
+1211,2024-01-29,Kavya Iyer,West,Mouse,Accessories,4,800,3200,Credit Card
+1212,2024-02-27,Rahul Sharma,West,Desk,Furniture,5,12000,60000,Net Banking
+1213,2024-01-17,Aditya Malhotra,South,Desk,Furniture,5,12000,60000,Debit Card
+1214,2024-02-10,Kiran Patel,North,Mouse,Accessories,4,800,3200,Debit Card
+1215,2024-01-15,Priya Singh,East,Keyboard,Accessories,5,1500,7500,Net Banking
+1216,2024-06-28,Aman Khan,West,Desk,Furniture,2,12000,24000,Cash
+1217,2024-05-11,Priya Singh,West,Mouse,Accessories,4,800,3200,Cash
+1218,2024-04-13,Rohit Mehta,North,Bookshelf,Furniture,6,7000,42000,Debit Card
+1219,2024-06-05,Kiran Patel,North,Office Chair,Furniture,5,4500,22500,UPI
+1220,2024-02-26,Kiran Patel,North,Tablet,Electronics,2,22000,44000,Cash
+1221,2024-04-27,Neha Reddy,East,Office Chair,Furniture,1,4500,4500,Net Banking
+1222,2024-02-23,Rohit Mehta,East,Tablet,Electronics,2,22000,44000,Net Banking
+1223,2024-06-21,Kavya Iyer,North,Office Chair,Furniture,2,4500,9000,Credit Card
+1224,2024-04-23,Priya Singh,East,Mouse,Accessories,2,800,1600,UPI
+1225,2024-06-11,Vikas Rao,South,Office Chair,Furniture,4,4500,18000,UPI
+1226,2024-05-01,Rahul Sharma,South,Office Chair,Furniture,4,4500,18000,Cash
+1227,2024-01-24,Neha Reddy,North,Keyboard,Accessories,6,1500,9000,Debit Card
+1228,2024-05-06,Rahul Sharma,North,Bookshelf,Furniture,2,7000,14000,Debit Card
+1229,2024-06-18,Rahul Sharma,West,Bookshelf,Furniture,1,7000,7000,Net Banking
+1230,2024-05-21,Aditya Malhotra,North,Mouse,Accessories,1,800,800,Cash
+1231,2024-05-23,Meena Joshi,North,Desk,Furniture,4,12000,48000,Cash
+1232,2024-03-02,Aditya Malhotra,North,Monitor,Electronics,2,14000,28000,Cash
+1233,2024-03-08,Rahul Sharma,South,Office Chair,Furniture,2,4500,9000,Cash
+1234,2024-01-19,Aditya Malhotra,North,Mouse,Accessories,5,800,4000,Net Banking
+1235,2024-01-20,Neha Reddy,West,Keyboard,Accessories,3,1500,4500,UPI
+1236,2024-05-25,Rahul Sharma,East,Keyboard,Accessories,2,1500,3000,Cash
+1237,2024-04-07,Kiran Patel,North,Monitor,Electronics,1,14000,14000,UPI
+1238,2024-01-31,Anjali Verma,South,Bookshelf,Furniture,1,7000,7000,UPI
+1239,2024-02-21,Kiran Patel,North,Headphones,Electronics,2,2500,5000,Net Banking
+1240,2024-02-18,Vikas Rao,East,Monitor,Electronics,1,14000,14000,UPI
+1241,2024-05-15,Arjun Patel,South,Smartphone,Electronics,4,18000,72000,Debit Card
+1242,2024-04-19,Kavya Iyer,South,Headphones,Electronics,2,2500,5000,UPI
+1243,2024-04-20,Neha Reddy,West,Bookshelf,Furniture,5,7000,35000,Credit Card
+1244,2024-05-18,Meena Joshi,West,Monitor,Electronics,2,14000,28000,Cash
+1245,2024-06-07,Aditya Malhotra,South,Desk,Furniture,2,12000,24000,Cash
+1246,2024-01-22,Sneha Gupta,North,Laptop,Electronics,5,55000,275000,UPI
+1247,2024-03-24,Sneha Gupta,North,Laptop,Electronics,5,55000,275000,Net Banking
+1248,2024-01-01,Meena Joshi,West,Tablet,Electronics,1,22000,22000,Net Banking
+1249,2024-06-09,Meena Joshi,South,Desk,Furniture,5,12000,60000,Cash
+1250,2024-05-03,Vikas Rao,South,Desk,Furniture,4,12000,48000,Credit Card
+1251,2024-05-10,Kavya Iyer,North,Mouse,Accessories,6,800,4800,Net Banking
+1252,2024-04-02,Rohit Mehta,West,Desk,Furniture,2,12000,24000,UPI
+1253,2024-02-21,Rahul Sharma,South,Keyboard,Accessories,4,1500,6000,Debit Card
+1254,2024-02-08,Rohit Mehta,West,Bookshelf,Furniture,4,7000,28000,Credit Card
+1255,2024-05-15,Suresh Kumar,South,Office Chair,Furniture,4,4500,18000,UPI
+1256,2024-02-01,Suresh Kumar,North,Headphones,Electronics,4,2500,10000,Net Banking
+1257,2024-02-28,Anjali Verma,North,Laptop,Electronics,2,55000,110000,Net Banking
+1258,2024-06-09,Kavya Iyer,North,Bookshelf,Furniture,1,7000,7000,Debit Card
+1259,2024-05-04,Arjun Patel,North,Smartphone,Electronics,3,18000,54000,Cash
+1260,2024-05-17,Kiran Patel,East,Monitor,Electronics,5,14000,70000,Credit Card
+1261,2024-04-05,Kavya Iyer,North,Smartphone,Electronics,1,18000,18000,Net Banking
+1262,2024-01-27,Vikas Rao,East,Laptop,Electronics,2,55000,110000,UPI
+1263,2024-06-05,Aditya Malhotra,East,Laptop,Electronics,3,55000,165000,Credit Card
+1264,2024-03-29,Vikas Rao,North,Office Chair,Furniture,5,4500,22500,Net Banking
+1265,2024-04-03,Rohit Mehta,West,Mouse,Accessories,3,800,2400,Debit Card
+1266,2024-05-03,Neha Reddy,East,Headphones,Electronics,6,2500,15000,UPI
+1267,2024-03-04,Suresh Kumar,East,Keyboard,Accessories,2,1500,3000,Credit Card
+1268,2024-05-13,Kiran Patel,East,Smartphone,Electronics,1,18000,18000,Debit Card
+1269,2024-03-02,Anjali Verma,East,Bookshelf,Furniture,2,7000,14000,Cash
+1270,2024-02-03,Vikas Rao,North,Mouse,Accessories,2,800,1600,Credit Card
+1271,2024-02-27,Arjun Patel,South,Tablet,Electronics,2,22000,44000,Debit Card
+1272,2024-05-19,Arjun Patel,South,Headphones,Electronics,4,2500,10000,Cash
+1273,2024-04-10,Rahul Sharma,South,Bookshelf,Furniture,3,7000,21000,Debit Card
+1274,2024-01-06,Suresh Kumar,East,Mouse,Accessories,4,800,3200,UPI
+1275,2024-05-09,Priya Singh,North,Desk,Furniture,6,12000,72000,Net Banking
+1276,2024-03-15,Priya Singh,South,Headphones,Electronics,6,2500,15000,Debit Card
+1277,2024-04-25,Pooja Das,West,Headphones,Electronics,6,2500,15000,Net Banking
+1278,2024-02-05,Priya Singh,South,Desk,Furniture,2,12000,24000,Debit Card
+1279,2024-06-17,Anjali Verma,West,Desk,Furniture,4,12000,48000,UPI
+1280,2024-04-10,Sneha Gupta,West,Tablet,Electronics,3,22000,66000,Net Banking
+1281,2024-06-17,Meena Joshi,South,Laptop,Electronics,3,55000,165000,Net Banking
+1282,2024-06-17,Vikas Rao,West,Mouse,Accessories,1,800,800,Net Banking
+1283,2024-06-04,Aman Khan,North,Office Chair,Furniture,1,4500,4500,Net Banking
+1284,2024-05-22,Priya Singh,South,Keyboard,Accessories,4,1500,6000,Cash
+1285,2024-02-17,Priya Singh,West,Laptop,Electronics,4,55000,220000,Debit Card
+1286,2024-02-16,Rahul Sharma,West,Bookshelf,Furniture,1,7000,7000,UPI
+1287,2024-05-06,Rohit Mehta,North,Smartphone,Electronics,6,18000,108000,Net Banking
+1288,2024-06-03,Kavya Iyer,West,Smartphone,Electronics,3,18000,54000,Debit Card
+1289,2024-06-09,Kavya Iyer,West,Office Chair,Furniture,4,4500,18000,Cash
+1290,2024-01-08,Kiran Patel,North,Mouse,Accessories,2,800,1600,Debit Card
+1291,2024-04-20,Sneha Gupta,North,Headphones,Electronics,5,2500,12500,Credit Card
+1292,2024-04-27,Neha Reddy,East,Tablet,Electronics,6,22000,132000,Net Banking
+1293,2024-04-05,Anjali Verma,South,Laptop,Electronics,2,55000,110000,Cash
+1294,2024-04-29,Rahul Sharma,North,Headphones,Electronics,4,2500,10000,Net Banking
+1295,2024-06-14,Vikas Rao,East,Mouse,Accessories,2,800,1600,UPI
+1296,2024-01-15,Priya Singh,North,Mouse,Accessories,5,800,4000,Credit Card
+1297,2024-03-23,Rahul Sharma,East,Smartphone,Electronics,5,18000,90000,UPI
+1298,2024-03-10,Vikas Rao,West,Office Chair,Furniture,2,4500,9000,Cash
+1299,2024-04-16,Rohit Mehta,South,Bookshelf,Furniture,5,7000,35000,Cash
+1300,2024-01-16,Aman Khan,North,Monitor,Electronics,4,14000,56000,Cash
+1301,2024-06-27,Pooja Das,East,Office Chair,Furniture,4,4500,18000,Debit Card
+1302,2024-01-30,Rahul Sharma,East,Smartphone,Electronics,2,18000,36000,Cash
+1303,2024-06-02,Sneha Gupta,East,Desk,Furniture,1,12000,12000,Cash
+1304,2024-05-19,Meena Joshi,West,Mouse,Accessories,4,800,3200,Cash
+1305,2024-02-17,Sneha Gupta,East,Desk,Furniture,3,12000,36000,Debit Card
+1306,2024-04-02,Aman Khan,North,Laptop,Electronics,1,55000,55000,Cash
+1307,2024-01-08,Priya Singh,West,Bookshelf,Furniture,3,7000,21000,Cash
+1308,2024-05-19,Neha Reddy,South,Smartphone,Electronics,3,18000,54000,Credit Card
+1309,2024-05-03,Kavya Iyer,East,Keyboard,Accessories,4,1500,6000,Net Banking
+1310,2024-04-22,Arjun Patel,East,Mouse,Accessories,2,800,1600,Credit Card
+1311,2024-06-22,Pooja Das,South,Office Chair,Furniture,4,4500,18000,Net Banking
+1312,2024-06-10,Kavya Iyer,East,Keyboard,Accessories,4,1500,6000,Net Banking
+1313,2024-03-22,Suresh Kumar,West,Smartphone,Electronics,2,18000,36000,UPI
+1314,2024-01-13,Aditya Malhotra,West,Keyboard,Accessories,1,1500,1500,Net Banking
+1315,2024-06-16,Kiran Patel,West,Office Chair,Furniture,6,4500,27000,UPI
+1316,2024-03-15,Sneha Gupta,East,Monitor,Electronics,4,14000,56000,Debit Card
+1317,2024-03-28,Kavya Iyer,North,Tablet,Electronics,4,22000,88000,Net Banking
+1318,2024-06-07,Meena Joshi,South,Headphones,Electronics,2,2500,5000,UPI
+1319,2024-04-12,Neha Reddy,West,Smartphone,Electronics,5,18000,90000,Net Banking
+1320,2024-02-27,Arjun Patel,South,Laptop,Electronics,3,55000,165000,Net Banking
+1321,2024-02-14,Pooja Das,East,Bookshelf,Furniture,4,7000,28000,UPI
+1322,2024-04-15,Pooja Das,East,Smartphone,Electronics,1,18000,18000,UPI
+1323,2024-01-31,Meena Joshi,South,Monitor,Electronics,1,14000,14000,Cash
+1324,2024-02-18,Suresh Kumar,West,Smartphone,Electronics,2,18000,36000,Net Banking
+1325,2024-05-15,Rohit Mehta,North,Monitor,Electronics,3,14000,42000,Credit Card
+1326,2024-03-12,Rohit Mehta,West,Monitor,Electronics,2,14000,28000,Credit Card
+1327,2024-05-03,Vikas Rao,South,Laptop,Electronics,5,55000,275000,Cash
+1328,2024-04-19,Priya Singh,West,Smartphone,Electronics,2,18000,36000,Cash
+1329,2024-02-23,Kiran Patel,South,Headphones,Electronics,5,2500,12500,Credit Card
+1330,2024-01-21,Meena Joshi,East,Headphones,Electronics,5,2500,12500,Net Banking
+1331,2024-01-13,Aman Khan,South,Keyboard,Accessories,1,1500,1500,Credit Card
+1332,2024-06-21,Neha Reddy,South,Mouse,Accessories,2,800,1600,UPI
+1333,2024-06-22,Rohit Mehta,West,Smartphone,Electronics,5,18000,90000,UPI
+1334,2024-06-25,Arjun Patel,West,Bookshelf,Furniture,1,7000,7000,Net Banking
+1335,2024-06-15,Arjun Patel,South,Desk,Furniture,5,12000,60000,Cash
+1336,2024-04-28,Aman Khan,North,Mouse,Accessories,6,800,4800,UPI
+1337,2024-02-02,Rahul Sharma,South,Desk,Furniture,1,12000,12000,Cash
+1338,2024-06-23,Meena Joshi,East,Monitor,Electronics,4,14000,56000,Credit Card
+1339,2024-01-08,Priya Singh,East,Mouse,Accessories,6,800,4800,Cash
+1340,2024-03-08,Rohit Mehta,West,Desk,Furniture,2,12000,24000,UPI
+1341,2024-03-09,Anjali Verma,South,Monitor,Electronics,3,14000,42000,Net Banking
+1342,2024-02-15,Priya Singh,East,Keyboard,Accessories,4,1500,6000,UPI
+1343,2024-02-29,Sneha Gupta,East,Headphones,Electronics,4,2500,10000,Debit Card
+1344,2024-04-18,Aman Khan,West,Desk,Furniture,1,12000,12000,Net Banking
+1345,2024-01-29,Meena Joshi,South,Mouse,Accessories,5,800,4000,Net Banking
+1346,2024-03-14,Suresh Kumar,South,Headphones,Electronics,2,2500,5000,UPI
+1347,2024-03-15,Neha Reddy,East,Tablet,Electronics,5,22000,110000,Cash
+1348,2024-03-02,Meena Joshi,East,Desk,Furniture,1,12000,12000,Net Banking
+1349,2024-01-30,Rohit Mehta,East,Bookshelf,Furniture,5,7000,35000,Credit Card
+1350,2024-05-17,Aditya Malhotra,North,Mouse,Accessories,3,800,2400,Net Banking
+1351,2024-05-26,Suresh Kumar,West,Office Chair,Furniture,5,4500,22500,UPI
+1352,2024-06-04,Sneha Gupta,West,Keyboard,Accessories,3,1500,4500,Net Banking
+1353,2024-04-16,Arjun Patel,East,Bookshelf,Furniture,4,7000,28000,Credit Card
+1354,2024-01-28,Rahul Sharma,West,Bookshelf,Furniture,4,7000,28000,Credit Card
+1355,2024-06-02,Sneha Gupta,East,Office Chair,Furniture,5,4500,22500,Debit Card
+1356,2024-06-11,Pooja Das,North,Keyboard,Accessories,5,1500,7500,Cash
+1357,2024-01-25,Anjali Verma,West,Office Chair,Furniture,1,4500,4500,Debit Card
+1358,2024-01-20,Vikas Rao,East,Headphones,Electronics,4,2500,10000,Net Banking
+1359,2024-06-22,Meena Joshi,West,Office Chair,Furniture,3,4500,13500,Cash
+1360,2024-01-26,Rohit Mehta,North,Tablet,Electronics,6,22000,132000,Cash
+1361,2024-03-31,Suresh Kumar,South,Desk,Furniture,5,12000,60000,UPI
+1362,2024-01-30,Rohit Mehta,North,Laptop,Electronics,5,55000,275000,Debit Card
+1363,2024-05-14,Anjali Verma,West,Mouse,Accessories,3,800,2400,UPI
+1364,2024-03-19,Kavya Iyer,North,Keyboard,Accessories,3,1500,4500,Cash
+1365,2024-06-29,Anjali Verma,West,Keyboard,Accessories,2,1500,3000,Credit Card
+1366,2024-03-11,Suresh Kumar,East,Keyboard,Accessories,1,1500,1500,Credit Card
+1367,2024-04-12,Meena Joshi,West,Mouse,Accessories,4,800,3200,Debit Card
+1368,2024-06-03,Meena Joshi,East,Mouse,Accessories,2,800,1600,Net Banking
+1369,2024-01-08,Aman Khan,West,Mouse,Accessories,3,800,2400,Credit Card
+1370,2024-02-16,Sneha Gupta,East,Mouse,Accessories,2,800,1600,UPI
+1371,2024-05-26,Priya Singh,South,Laptop,Electronics,5,55000,275000,UPI
+1372,2024-05-30,Meena Joshi,North,Desk,Furniture,1,12000,12000,Net Banking
+1373,2024-05-06,Kavya Iyer,West,Smartphone,Electronics,3,18000,54000,Debit Card
+1374,2024-06-28,Rahul Sharma,East,Mouse,Accessories,1,800,800,Credit Card
+1375,2024-02-01,Pooja Das,West,Laptop,Electronics,4,55000,220000,Debit Card
+1376,2024-03-06,Anjali Verma,North,Monitor,Electronics,1,14000,14000,UPI
+1377,2024-04-01,Anjali Verma,West,Bookshelf,Furniture,3,7000,21000,Net Banking
+1378,2024-06-29,Aman Khan,South,Desk,Furniture,3,12000,36000,UPI
+1379,2024-04-08,Rahul Sharma,North,Keyboard,Accessories,5,1500,7500,Net Banking
+1380,2024-05-14,Arjun Patel,West,Smartphone,Electronics,4,18000,72000,Net Banking
+1381,2024-02-24,Aman Khan,South,Smartphone,Electronics,6,18000,108000,Debit Card
+1382,2024-02-08,Sneha Gupta,North,Monitor,Electronics,1,14000,14000,Net Banking
+1383,2024-04-15,Aditya Malhotra,West,Mouse,Accessories,6,800,4800,Credit Card
+1384,2024-05-30,Priya Singh,North,Desk,Furniture,1,12000,12000,Cash
+1385,2024-01-11,Priya Singh,South,Laptop,Electronics,3,55000,165000,Credit Card
+1386,2024-02-09,Suresh Kumar,East,Keyboard,Accessories,2,1500,3000,Net Banking
+1387,2024-02-25,Aditya Malhotra,West,Headphones,Electronics,2,2500,5000,Credit Card
+1388,2024-05-12,Anjali Verma,South,Office Chair,Furniture,5,4500,22500,Debit Card
+1389,2024-01-27,Aman Khan,East,Mouse,Accessories,2,800,1600,Cash
+1390,2024-05-06,Kavya Iyer,East,Headphones,Electronics,5,2500,12500,UPI
+1391,2024-05-14,Aman Khan,East,Office Chair,Furniture,4,4500,18000,Debit Card
+1392,2024-06-13,Sneha Gupta,West,Desk,Furniture,4,12000,48000,Cash
+1393,2024-05-29,Meena Joshi,West,Monitor,Electronics,4,14000,56000,UPI
+1394,2024-04-15,Anjali Verma,South,Headphones,Electronics,5,2500,12500,Credit Card
+1395,2024-05-25,Neha Reddy,West,Monitor,Electronics,6,14000,84000,Cash
+1396,2024-01-13,Arjun Patel,West,Keyboard,Accessories,3,1500,4500,Debit Card
+1397,2024-06-17,Aman Khan,East,Headphones,Electronics,5,2500,12500,Debit Card
+1398,2024-02-28,Kiran Patel,West,Tablet,Electronics,6,22000,132000,UPI
+1399,2024-04-27,Pooja Das,North,Mouse,Accessories,4,800,3200,Debit Card
+1400,2024-04-14,Rahul Sharma,North,Keyboard,Accessories,2,1500,3000,Credit Card
+1401,2024-03-24,Vikas Rao,South,Monitor,Electronics,6,14000,84000,Net Banking
+1402,2024-06-17,Rohit Mehta,North,Headphones,Electronics,3,2500,7500,UPI
+1403,2024-02-27,Sneha Gupta,South,Tablet,Electronics,6,22000,132000,Net Banking
+1404,2024-05-18,Priya Singh,North,Mouse,Accessories,2,800,1600,UPI
+1405,2024-02-17,Neha Reddy,West,Mouse,Accessories,3,800,2400,Debit Card
+1406,2024-04-05,Anjali Verma,South,Tablet,Electronics,1,22000,22000,Cash
+1407,2024-02-10,Rahul Sharma,South,Smartphone,Electronics,5,18000,90000,Cash
+1408,2024-05-11,Anjali Verma,South,Office Chair,Furniture,4,4500,18000,Net Banking
+1409,2024-05-06,Kiran Patel,East,Office Chair,Furniture,2,4500,9000,Cash
+1410,2024-01-27,Meena Joshi,West,Tablet,Electronics,4,22000,88000,Debit Card
+1411,2024-01-03,Kavya Iyer,North,Headphones,Electronics,6,2500,15000,Debit Card
+1412,2024-01-11,Aditya Malhotra,West,Laptop,Electronics,5,55000,275000,Net Banking
+1413,2024-02-21,Neha Reddy,North,Desk,Furniture,1,12000,12000,Cash
+1414,2024-03-06,Aman Khan,East,Desk,Furniture,2,12000,24000,Net Banking
+1415,2024-03-06,Anjali Verma,North,Office Chair,Furniture,4,4500,18000,Cash
+1416,2024-06-27,Vikas Rao,South,Laptop,Electronics,1,55000,55000,Credit Card
+1417,2024-01-01,Rahul Sharma,East,Monitor,Electronics,1,14000,14000,UPI
+1418,2024-03-15,Rahul Sharma,East,Tablet,Electronics,6,22000,132000,UPI
+1419,2024-02-05,Suresh Kumar,South,Office Chair,Furniture,4,4500,18000,Cash
+1420,2024-02-02,Rahul Sharma,East,Smartphone,Electronics,3,18000,54000,Credit Card
+1421,2024-04-07,Rohit Mehta,South,Headphones,Electronics,5,2500,12500,Net Banking
+1422,2024-03-02,Rohit Mehta,East,Monitor,Electronics,6,14000,84000,Net Banking
+1423,2024-06-10,Neha Reddy,East,Tablet,Electronics,2,22000,44000,UPI
+1424,2024-04-22,Meena Joshi,South,Laptop,Electronics,3,55000,165000,Credit Card
+1425,2024-06-07,Rohit Mehta,North,Smartphone,Electronics,3,18000,54000,Net Banking
+1426,2024-03-03,Priya Singh,South,Bookshelf,Furniture,3,7000,21000,Net Banking
+1427,2024-03-22,Meena Joshi,North,Tablet,Electronics,6,22000,132000,Debit Card
+1428,2024-06-14,Suresh Kumar,North,Monitor,Electronics,3,14000,42000,Cash
+1429,2024-06-08,Anjali Verma,East,Keyboard,Accessories,4,1500,6000,Cash
+1430,2024-03-02,Anjali Verma,East,Headphones,Electronics,1,2500,2500,UPI
+1431,2024-04-22,Meena Joshi,East,Tablet,Electronics,6,22000,132000,Credit Card
+1432,2024-03-26,Priya Singh,South,Mouse,Accessories,1,800,800,Cash
+1433,2024-04-13,Sneha Gupta,South,Mouse,Accessories,3,800,2400,UPI
+1434,2024-01-01,Aditya Malhotra,West,Headphones,Electronics,2,2500,5000,Debit Card
+1435,2024-03-06,Priya Singh,East,Laptop,Electronics,6,55000,330000,Cash
+1436,2024-04-16,Rohit Mehta,East,Tablet,Electronics,2,22000,44000,Credit Card
+1437,2024-02-02,Aman Khan,East,Mouse,Accessories,5,800,4000,Cash
+1438,2024-01-26,Anjali Verma,North,Bookshelf,Furniture,2,7000,14000,Cash
+1439,2024-05-22,Meena Joshi,East,Monitor,Electronics,6,14000,84000,Net Banking
+1440,2024-02-03,Kiran Patel,North,Headphones,Electronics,2,2500,5000,UPI
+1441,2024-02-04,Aditya Malhotra,South,Tablet,Electronics,1,22000,22000,Cash
+1442,2024-03-24,Kiran Patel,South,Smartphone,Electronics,5,18000,90000,Cash
+1443,2024-03-23,Pooja Das,West,Laptop,Electronics,1,55000,55000,Cash
+1444,2024-02-15,Rahul Sharma,South,Tablet,Electronics,2,22000,44000,Cash
+1445,2024-01-29,Aman Khan,North,Smartphone,Electronics,4,18000,72000,Debit Card
+1446,2024-01-08,Priya Singh,East,Keyboard,Accessories,1,1500,1500,Net Banking
+1447,2024-06-21,Kiran Patel,West,Bookshelf,Furniture,2,7000,14000,Debit Card
+1448,2024-01-05,Kiran Patel,North,Office Chair,Furniture,6,4500,27000,Net Banking
+1449,2024-04-12,Vikas Rao,East,Laptop,Electronics,2,55000,110000,Cash
+1450,2024-01-18,Suresh Kumar,East,Smartphone,Electronics,1,18000,18000,Net Banking
+1451,2024-01-27,Pooja Das,West,Headphones,Electronics,1,2500,2500,Net Banking
+1452,2024-06-24,Anjali Verma,South,Headphones,Electronics,4,2500,10000,Credit Card
+1453,2024-06-27,Pooja Das,East,Mouse,Accessories,5,800,4000,Credit Card
+1454,2024-01-28,Rohit Mehta,East,Laptop,Electronics,6,55000,330000,Net Banking
+1455,2024-06-29,Pooja Das,East,Office Chair,Furniture,3,4500,13500,Credit Card
+1456,2024-06-14,Aman Khan,South,Laptop,Electronics,3,55000,165000,Credit Card
+1457,2024-06-03,Kavya Iyer,East,Bookshelf,Furniture,6,7000,42000,Debit Card
+1458,2024-01-24,Arjun Patel,North,Office Chair,Furniture,3,4500,13500,Net Banking
+1459,2024-02-29,Kavya Iyer,North,Bookshelf,Furniture,3,7000,21000,UPI
+1460,2024-01-04,Anjali Verma,South,Headphones,Electronics,1,2500,2500,UPI
+1461,2024-06-11,Anjali Verma,North,Office Chair,Furniture,4,4500,18000,Credit Card
+1462,2024-01-11,Arjun Patel,South,Keyboard,Accessories,2,1500,3000,Net Banking
+1463,2024-04-02,Kavya Iyer,East,Headphones,Electronics,3,2500,7500,Net Banking
+1464,2024-01-23,Rohit Mehta,West,Tablet,Electronics,3,22000,66000,Credit Card
+1465,2024-01-04,Aman Khan,East,Mouse,Accessories,3,800,2400,Debit Card
+1466,2024-04-09,Meena Joshi,South,Headphones,Electronics,2,2500,5000,Net Banking
+1467,2024-03-09,Meena Joshi,South,Tablet,Electronics,6,22000,132000,UPI
+1468,2024-03-18,Pooja Das,South,Bookshelf,Furniture,5,7000,35000,Credit Card
+1469,2024-06-29,Kavya Iyer,West,Headphones,Electronics,2,2500,5000,Cash
+1470,2024-02-04,Suresh Kumar,West,Keyboard,Accessories,4,1500,6000,Debit Card
+1471,2024-02-24,Pooja Das,South,Bookshelf,Furniture,4,7000,28000,Credit Card
+1472,2024-01-26,Arjun Patel,South,Office Chair,Furniture,2,4500,9000,UPI
+1473,2024-01-21,Anjali Verma,West,Headphones,Electronics,4,2500,10000,Net Banking
+1474,2024-01-14,Meena Joshi,West,Monitor,Electronics,4,14000,56000,Credit Card
+1475,2024-04-30,Anjali Verma,East,Tablet,Electronics,1,22000,22000,Credit Card
+1476,2024-04-04,Suresh Kumar,East,Headphones,Electronics,6,2500,15000,Cash
+1477,2024-05-19,Aman Khan,West,Desk,Furniture,4,12000,48000,UPI
+1478,2024-06-15,Pooja Das,West,Tablet,Electronics,1,22000,22000,Cash
+1479,2024-04-25,Aman Khan,East,Mouse,Accessories,1,800,800,Credit Card
+1480,2024-06-05,Suresh Kumar,East,Monitor,Electronics,4,14000,56000,Cash
+1481,2024-06-08,Pooja Das,South,Headphones,Electronics,5,2500,12500,Net Banking
+1482,2024-02-27,Anjali Verma,West,Laptop,Electronics,6,55000,330000,Net Banking
+1483,2024-05-26,Aman Khan,South,Tablet,Electronics,3,22000,66000,Debit Card
+1484,2024-05-18,Neha Reddy,East,Mouse,Accessories,5,800,4000,UPI
+1485,2024-02-22,Arjun Patel,South,Laptop,Electronics,6,55000,330000,Credit Card
+1486,2024-02-03,Sneha Gupta,East,Desk,Furniture,6,12000,72000,Cash
+1487,2024-06-22,Suresh Kumar,South,Tablet,Electronics,4,22000,88000,Credit Card
+1488,2024-01-21,Vikas Rao,North,Office Chair,Furniture,1,4500,4500,UPI
+1489,2024-06-28,Aman Khan,East,Mouse,Accessories,2,800,1600,Net Banking
+1490,2024-01-07,Vikas Rao,West,Desk,Furniture,1,12000,12000,Debit Card
+1491,2024-04-18,Rohit Mehta,North,Headphones,Electronics,6,2500,15000,Cash
+1492,2024-01-26,Meena Joshi,East,Office Chair,Furniture,5,4500,22500,Net Banking
+1493,2024-03-25,Kiran Patel,North,Tablet,Electronics,3,22000,66000,Cash
+1494,2024-03-05,Neha Reddy,East,Laptop,Electronics,6,55000,330000,Credit Card
+1495,2024-03-19,Rahul Sharma,West,Smartphone,Electronics,4,18000,72000,Credit Card
+1496,2024-04-18,Rahul Sharma,South,Headphones,Electronics,5,2500,12500,Debit Card
+1497,2024-02-15,Vikas Rao,West,Office Chair,Furniture,3,4500,13500,UPI
+1498,2024-03-07,Suresh Kumar,South,Laptop,Electronics,6,55000,330000,Net Banking
+1499,2024-02-20,Arjun Patel,West,Keyboard,Accessories,3,1500,4500,UPI
+1500,2024-01-28,Priya Singh,West,Laptop,Electronics,6,55000,330000,UPI
