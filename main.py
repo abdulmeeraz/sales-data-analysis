@@ -33,7 +33,16 @@ def sales_analysis():
     print("\n--- Sales by Category ---")
     print(sales_by_category)
     
+    # Sales by Region
+    sales_by_region = sales_data.groupby("Region")["Total_sales"].sum()
+    print("\n--- Sales by Region ---")
+    print(sales_by_region)
 
-
+    # Monthly sales trend
+    sales_data["Order_Date"] = pd.to_datetime(sales_data["Order_Date"])
+    sales_data.set_index("Order_Date", inplace=True)
+    monthly_sales = sales_data.resample("M")["Total_sales"].sum()
+    print("\n--- Monthly Sales Trend ---")
+    print(monthly_sales)
 
 sales_analysis()
