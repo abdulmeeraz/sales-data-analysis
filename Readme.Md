@@ -8,6 +8,8 @@ A mini data analysis project using Pandas to analyze sales data and generate ins
 - Calculate total and average sales
 - Identify best-selling product
 - Category-wise sales analysis
+- Region-wise sales analysis
+- Monthly sales Trend analysis
 
 ## Concepts Used
 - Pandas DataFrame
